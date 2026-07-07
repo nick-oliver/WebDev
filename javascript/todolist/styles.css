@@ -1,0 +1,17 @@
+body {
+    font-family: Roboto, sans-serif;
+}
+
+h1 {
+    font-size: 3rem;
+    margin-bottom: 0;
+}
+
+h1+h2 {
+    margin-top: 10px;
+}
+
+li {
+    font-weight: 400;
+    font-size: 2rem;
+}

@@ -1,0 +1,12 @@
+section {
+    width: 80%;
+    height: 800px;
+    background: center/cover url("/Users/nickoliver/Pictures/ChristtheKing.jpeg");
+    margin: 0 auto;
+}
+
+h1 {
+    font-size: 100px;
+    color: antiquewhite;
+}
+
